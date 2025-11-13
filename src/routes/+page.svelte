@@ -13,9 +13,9 @@
         <p class = "ml-8 text-white font-bold">Fuchka</p>
         <nav class="text-white p-4 font-bold">
             <ul class="flex space-x-4">
-                <li><a href = "/">Home</a></li>
-                <li><a href = "/images">Photos</a></li>
-                <li><a href = "/recipe">Recipe</a></li>
+                <li><a class="hover:text-blue-500" href = "/">Home</a></li>
+                <li><a class="hover:text-blue-500" href = "/images">Photos</a></li>
+                <li><a class="hover:text-blue-500" href = "/recipe">Recipe</a></li>
             </ul>
         </nav>
     </div>
@@ -59,4 +59,6 @@
             </p>
         </div>
     </div>
+<footer class = "border-2 border-black rounded-2xl m-4 text-center text-white"> <a class = "hover:text-blue-300" href = "https://hasnat4763.me">© 2025 Hasnat4763.</a></footer>
 </body>
+

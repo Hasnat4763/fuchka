@@ -1,3 +1,4 @@
+
 <head>
     <title>Recipes - Fuchka</title>
 </head>
@@ -6,9 +7,9 @@
         <p class = "ml-8 text-white font-bold">Fuchka</p>
         <nav class="text-white p-4 font-bold">
             <ul class="flex space-x-4">
-                <li><a href = "/">Home</a></li>
-                <li><a href = "/images">Photos</a></li>
-                <li><a href = "/recipe">Recipe</a></li>
+                <li><a class="hover:text-blue-500" href = "/">Home</a></li>
+                <li><a class="hover:text-blue-500" href = "/images">Photos</a></li>
+                <li><a class="hover:text-blue-500" href = "/recipe">Recipe</a></li>
             </ul>
         </nav>
     </div>
@@ -26,21 +27,25 @@
         <p>
             Fuchka Recipes
         </p>
-        <a href = "https://www.thespiceodyssey.com/eat/phuchka">Recipe by "The Spice Odyssey"</a>
+        <a class = "border-2 hover:text-blue-500" href = "https://www.thespiceodyssey.com/eat/phuchka">Recipe by "The Spice Odyssey"</a>
         <br>
-        <a href = "https://www.banglarrannaghor.com/post/how-to-make-fuchka">Recipe By "Banglar Ranna Ghor"</a>
+        <a class = "border-2 hover:text-blue-500" href = "https://www.banglarrannaghor.com/post/how-to-make-fuchka">Recipe By "Banglar Ranna Ghor"</a>
     </div>
-    <div>
+    <div class = "m-4 p-4 leading-relaxed sm:text-left md:text-center sm:text-xl md:text-2xl space-y-4">
         <p>
             Golgappa Recipes
         </p>
-        <a href = "https://www.vegrecipesofindia.com/golgappa-recipe/">Recipe by "Veg Recipes of India"</a>
+        <a class = "border-2 hover:text-blue-500" href = "https://www.vegrecipesofindia.com/golgappa-recipe/">Recipe by "Veg Recipes of India"</a>
         <br>
-        <a href = ""></a>
+        <a class = "border-2 hover:text-blue-500" href = "https://foodviva.com/indian-recipes/golgappa-puri/">This recipe is about how to make the outer shell</a>
     </div>
-    <div>
+    <div class = "m-4 p-4 leading-relaxed sm:text-left md:text-center sm:text-xl md:text-2xl space-y-4">
         <p>
             Panipuri Recipes
         </p>
+        <a class = "border-2 hover:text-blue-500" href ="https://foodviva.com/snacks-recipes/pani-puri/">Recipe by "Food Viva"</a>
+        <br>
+        <a class = "border-2 hover:text-blue-500" href = "https://www.vegrecipesofindia.com/pani-puri-recipe-mumbai-pani-puri-recipe/">Recipe by "Veg Recipes of India"</a>
     </div>
+    <footer class = "border-2 border-black rounded-2xl m-4 text-center text-white"> <a class = "hover:text-blue-300" href = "https://hasnat4763.me">© 2025 Hasnat4763.</a></footer>
 </body>
