@@ -21,18 +21,18 @@
     <p class = "text-2xl font-bold text-center mt-40">
             Fuchkas from all over South Asia.
         </p>
-    <div class="flex sm:flex-col md:flex-row items-center gap-8 p-8 text-center text-lg text-white">
+    <div class="md:flex md:flex-row items-center gap-8 p-8 text-center text-lg text-white">
         
         <div>
-            <img class="w-64 h-64 object-cover rounded-2xl" src="fuchka.jpeg" alt="Fuchka">
+            <img class="w-128 h-128 object-cover rounded-2xl" src="fuchka.jpeg" alt="Fuchka">
             <p>Fuchka</p>
         </div>
         <div>
-            <img class="w-64 h-64 object-cover rounded-2xl" src="golgappa.jpg" alt="Golgappa">
+            <img class="w-128 h-128 object-cover rounded-2xl" src="golgappa.jpg" alt="Golgappa">
             <p>Golgappa</p>
         </div>
         <div>
-            <img class="w-64 h-64 object-cover rounded-2xl" src="panipuri.jpg" alt="Pani Puri">
+            <img class="w-128 h-128 object-cover rounded-2xl" src="panipuri.jpg" alt="Pani Puri">
             <p>Pani Puri</p>
         </div>
     </div>
